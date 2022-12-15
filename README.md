@@ -1,2 +1,3 @@
-# test-cryptum-golang
-Cryptum services using Golang
+# Cryptum Services Using Golang
+
+Consuming Cryptum services via API using Golang
